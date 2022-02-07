@@ -2,4 +2,4 @@
 
 ## _Modificación_ **pequeñita** de prueba para fork :mega:
 # soloReadme
-Esta es la feature B.
+Esta es la feature B. Hoy es su primerito día.
