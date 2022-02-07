@@ -1,4 +1,4 @@
 # Ejercicio de clase
 
-## _Modificación_ **exhaustiva** de prueba para fork :mega:
+## _Modificación_ **pequeñita** de prueba para fork :mega:
 # soloReadme
